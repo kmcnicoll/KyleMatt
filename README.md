@@ -8,6 +8,6 @@ Our project focused on one major question, how can we accurately predict housing
 
 
 
-# Future Applications and Importance
+# Further Study
 We would like to further study each zipcode's population, and how income is broken down within each zipcode. Along with this, we'd like to study the type of markets available within each zipcode along with geography to see how those factors effect price in tandum with features of the house
 
